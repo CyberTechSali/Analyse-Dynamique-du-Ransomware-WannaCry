@@ -152,8 +152,8 @@ Based on the analysis, the following defensive measures are recommended:
 
 **Ouchahed Salma**
 *Cybersecurity Analyst / Reverse Engineering Enthusiast*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/salma-ouchahed-652189206/)
+[![GitHub](https://github.com/CyberTechSali)
 
 Static analysis performed in collaboration with a teammate as part of a joint malware analysis project.
 
